@@ -17,7 +17,7 @@ box: golang
     # http://devcenter.wercker.com/docs/services/mongodb.html
 build:
   # The steps that will be executed on build
-  # Steps make up the actions in your pipeline
+  # Steps make up the actions in your p ipeline
   # Read more about steps on our dev center:
   # http://devcenter.wercker.com/docs/steps/index.html
   steps:
